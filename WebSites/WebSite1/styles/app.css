@@ -1,0 +1,44 @@
+﻿body {
+    background: lightgray;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: green;
+}
+
+h1 {
+    color: blue;
+    background: red;
+    font-size: 24x;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima;
+    height: 40px;
+    padding-top: 20px;
+}
+
+nav{
+    background: yellow;
+    color:palegreen;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.sectionIntroduction
+{
+    font-style: italic;
+    color:blue;
+}
+
+.formEntry {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table {
+    border-style: solid;
+    width: 2px;
+    border-color:black;
+}
